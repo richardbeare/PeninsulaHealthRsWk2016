@@ -1,3 +1,8 @@
 name: Developmental Imaging Software Releases
-markdown: redcarpet
-highlighter: pygments
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+highlighter: rouge
+
