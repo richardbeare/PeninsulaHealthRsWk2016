@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(leaflet)
 load("FHmap.Rda")
 ```
-
+<br>
 
 Colours show the regions that are closer to a certain ambulance station than any other.
 
