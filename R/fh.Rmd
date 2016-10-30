@@ -1,0 +1,23 @@
+---
+title: "Travel time to Frankston Hospital"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("FHmap.Rda")
+```
+
+
+Colours show the regions that are closer to a certain ambulance station than any other.
+
+Click on a contourline to see the estimated travel time. Note the shift of
+
+Simulation was carried out using predicted traffic conditions for 1:00am and 8:00am. Note the shift of
+contours with time of day.
+
+```{r, echo=FALSE}
+m
+```
+
+

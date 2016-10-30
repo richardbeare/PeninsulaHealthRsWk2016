@@ -1,0 +1,23 @@
+---
+title: "Catchment areas and travel times for ambulances in the Frankston region"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+load("ambcatchment.Rda")
+```
+
+
+Colours show the regions that are closer to a certain ambulance station than any other.
+
+Click on a contourline to see the estimated travel time. 
+
+Simulation was carried out using predicted traffic conditions for 1:00am using the "optimistic" traffic conditions
+from Google maps.
+
+```{r, echo=FALSE}
+m
+```
+
+
