@@ -7,7 +7,5 @@ title: Contacts
 
 ## Department of Academic Medicine, Peninsula Clinical School, Monash University
 
-<section class="content">
-
-Richard.Beare ref: Richard.Beare@monash.edu
+Richard.Beare@monash.edu
 
